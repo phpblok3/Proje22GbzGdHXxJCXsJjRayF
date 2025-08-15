@@ -1,3 +1,0 @@
-# no bot may crawl 
-User-agent: *
-Disallow: /
